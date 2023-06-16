@@ -17,3 +17,6 @@ cmd + d
 
 //즐겨찾기 보기
 cmd + shift + b
+
+//origin 제거
+git remote remove origin
